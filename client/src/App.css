@@ -24,7 +24,6 @@ body {
 .app-wrapper {
   display: flex;
   justify-content: space-between;
-  align-items: center;
   margin-bottom: 30px;
 }
 
@@ -32,6 +31,7 @@ body {
   font-size: 60px;
   color: var(--primary-color);
   margin-bottom: 20px;
+  text-align: center;
 }
 
 .view-product-container {
